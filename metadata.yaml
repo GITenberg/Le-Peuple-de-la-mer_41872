@@ -1,0 +1,29 @@
+_repo: Le-Peuple-de-la-mer_41872
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41872-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Elder, Marc
+    alias: Tendron, Marcel
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '41334'
+    url: http://www.gutenberg.org/2009/agents/41334
+    wikipedia: http://en.wikipedia.org/wiki/Marc_Elder
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41872'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Le Peuple de la mer
+url: http://www.gutenberg.org/ebooks/41872
