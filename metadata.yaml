@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41334
     wikipedia: http://en.wikipedia.org/wiki/Marc_Elder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41872#Le-Peuple-de-la-mer
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-01-19'
 gutenberg_type: Text
